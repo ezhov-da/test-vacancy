@@ -1,0 +1,7 @@
+.idea
+target
+*.iml
+app/*.jar
+app/*.xsl
+app/*.db
+app/lib/*.jar
